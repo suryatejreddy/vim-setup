@@ -1,10 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/suryatej/Documents/Precog'
-let g:netrw_dirhist_2='/home/suryatej/Documents/Precog/Nudge-backend'
-let g:netrw_dirhist_3='/home/suryatej/Documents/Precog/Nudge-backend/Backend'
-let g:netrw_dirhist_4='/home/suryatej/Documents/Precog/Nudge-backend/Backend/addOSN'
-let g:netrw_dirhist_5='/home/suryatej/Documents/AcadStuff/sem4/os/assignment2/example/Chat-Server'
-let g:netrw_dirhist_6='/home/suryatej/Documents/AcadStuff/sem4/os/assignment2'
-let g:netrw_dirhist_7='/home/suryatej/Documents/AcadStuff/sem4/os/assignment2/example'
-let g:netrw_dirhist_8='/home/suryatej/Documents/AcadStuff/sem4/os/assignment2'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/suryatej/Documents/dev/hydrus'
+let g:netrw_dirhist_2='/home/suryatej/Documents/dev/hydrus/hydrus'
+let g:netrw_dirhist_3='/home/suryatej/Documents/dev/hydrus/hydrus/hydraspec'

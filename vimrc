@@ -53,3 +53,9 @@ set foldlevel=99
 set encoding=utf-8
 
 filetype plugin on
+
+"for ycm generator
+let g:ycm_python_binary_path = '/usr/bin/python3'
+
+"execute python script with F9
+autocmd FileType python nnoremap <buffer> <F9> :exec '!python' shellescape(@%, 1)<cr>
